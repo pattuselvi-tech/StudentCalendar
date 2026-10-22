@@ -146,6 +146,6 @@ This project is open source under the [MIT License](LICENSE). Add a `LICENSE` fi
 
 ## 👋 Author
 Made by **Pattuselvi.M** as a frontend practice project.
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@pattuselvi-tech](https://github.com/pattuselvi-tech)
 
 If you like this project, give it a ⭐
